@@ -1,0 +1,6 @@
+<subject> khodafze</subject>
+<email_from> ali@yahoo.com </email_from>
+<email_to> danial@gmail.com </email_to>
+<email_data>
+gfdgfdgdasd
+</email_data>
